@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/obj/Debug/net7.0/TP SLAM Mdp.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/obj/Debug/net7.0/TP SLAM Mdp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/obj/Debug/net7.0/TP SLAM Mdp.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/obj/Debug/net7.0/TP SLAM Mdp.AssemblyInfo.cs
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/obj/Debug/net7.0/TP SLAM Mdp.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/bin/Debug/net7.0/TP SLAM Mdp
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/bin/Debug/net7.0/TP SLAM Mdp.deps.json
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/bin/Debug/net7.0/TP SLAM Mdp.runtimeconfig.json
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/bin/Debug/net7.0/TP SLAM Mdp.dll
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/bin/Debug/net7.0/TP SLAM Mdp.pdb
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/obj/Debug/net7.0/TP SLAM Mdp.dll
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/obj/Debug/net7.0/refint/TP SLAM Mdp.dll
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/obj/Debug/net7.0/TP SLAM Mdp.pdb
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/obj/Debug/net7.0/TP SLAM Mdp.genruntimeconfig.cache
+/Users/celinkocturk/Projects/TP SLAM Mdp/TP SLAM Mdp/obj/Debug/net7.0/ref/TP SLAM Mdp.dll

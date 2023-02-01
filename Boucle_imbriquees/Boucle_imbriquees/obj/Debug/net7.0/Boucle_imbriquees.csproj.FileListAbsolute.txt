@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/bin/Debug/net7.0/Boucle_imbriquees
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/bin/Debug/net7.0/Boucle_imbriquees.deps.json
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/bin/Debug/net7.0/Boucle_imbriquees.runtimeconfig.json
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/bin/Debug/net7.0/Boucle_imbriquees.dll
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/bin/Debug/net7.0/Boucle_imbriquees.pdb
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/obj/Debug/net7.0/Boucle_imbriquees.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/obj/Debug/net7.0/Boucle_imbriquees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/obj/Debug/net7.0/Boucle_imbriquees.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/obj/Debug/net7.0/Boucle_imbriquees.AssemblyInfo.cs
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/obj/Debug/net7.0/Boucle_imbriquees.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/obj/Debug/net7.0/Boucle_imbriquees.dll
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/obj/Debug/net7.0/refint/Boucle_imbriquees.dll
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/obj/Debug/net7.0/Boucle_imbriquees.pdb
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/obj/Debug/net7.0/Boucle_imbriquees.genruntimeconfig.cache
+/Users/celinkocturk/Projects/Boucle_imbriquees/Boucle_imbriquees/obj/Debug/net7.0/ref/Boucle_imbriquees.dll

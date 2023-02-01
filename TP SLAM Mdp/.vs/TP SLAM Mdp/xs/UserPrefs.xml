@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{79ACCEC3-2A95-4244-B144-3CAD314D1B3E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP SLAM Mdp/Program.cs">
+    <Files>
+      <File FileName="TP SLAM Mdp/Program.cs" Line="10" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP SLAM Mdp" expanded="True">
+            <Node name="TP SLAM Mdp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TP_220SLAM_220Mdp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

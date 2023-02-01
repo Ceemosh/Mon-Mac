@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D5C86194-9E45-4D30-A007-A1EFBAA67347}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TDNguyen/Program.cs">
+    <Files>
+      <File FileName="TDNguyen/Program.cs" Line="9" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TDNguyen" expanded="True">
+            <Node name="TDNguyen" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TDNguyen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

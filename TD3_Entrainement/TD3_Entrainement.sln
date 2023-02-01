@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD3_Entrainement", "TD3_Entrainement\TD3_Entrainement.csproj", "{B8EAB897-775D-4163-B7DD-6330993C088E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8EAB897-775D-4163-B7DD-6330993C088E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EAB897-775D-4163-B7DD-6330993C088E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EAB897-775D-4163-B7DD-6330993C088E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EAB897-775D-4163-B7DD-6330993C088E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0658810E-8C78-49CE-9E82-6E43D0757010}
+	EndGlobalSection
+EndGlobal

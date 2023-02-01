@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boucle_imbriquees 2", "boucle_imbriquees 2\boucle_imbriquees 2.csproj", "{6DC6D338-A448-432B-8E53-66884056112F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DC6D338-A448-432B-8E53-66884056112F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC6D338-A448-432B-8E53-66884056112F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC6D338-A448-432B-8E53-66884056112F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC6D338-A448-432B-8E53-66884056112F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C567E24-BA16-46D4-982B-EE0EC23D4467}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{75804316-FE0D-4948-850B-E290EB70CA9A}|Default">
+  <MonoDevelop.Ide.ItemProperties.TP__IMC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP_IMC/Program.cs">
+    <Files>
+      <File FileName="TP_IMC/Program.cs" Line="3" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP_IMC" expanded="True">
+            <Node name="TP_IMC" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

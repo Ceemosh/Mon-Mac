@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C29FF336-9C1A-4F2A-B7FD-94FA814E7050}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TD__Nguyene__while2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TD_Nguyene_while2/Program.cs">
+    <Files>
+      <File FileName="TD_Nguyene_while2/Program.cs" Line="21" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

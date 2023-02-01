@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/bin/Debug/net7.0/TD 2 SLAM Ex2
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/bin/Debug/net7.0/TD 2 SLAM Ex2.deps.json
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/bin/Debug/net7.0/TD 2 SLAM Ex2.runtimeconfig.json
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/bin/Debug/net7.0/TD 2 SLAM Ex2.dll
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/bin/Debug/net7.0/TD 2 SLAM Ex2.pdb
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/obj/Debug/net7.0/TD 2 SLAM Ex2.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/obj/Debug/net7.0/TD 2 SLAM Ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/obj/Debug/net7.0/TD 2 SLAM Ex2.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/obj/Debug/net7.0/TD 2 SLAM Ex2.AssemblyInfo.cs
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/obj/Debug/net7.0/TD 2 SLAM Ex2.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/obj/Debug/net7.0/TD 2 SLAM Ex2.dll
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/obj/Debug/net7.0/refint/TD 2 SLAM Ex2.dll
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/obj/Debug/net7.0/TD 2 SLAM Ex2.pdb
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/obj/Debug/net7.0/TD 2 SLAM Ex2.genruntimeconfig.cache
+/Users/celinkocturk/Projects/TD 2 SLAM Ex2/TD 2 SLAM Ex2/obj/Debug/net7.0/ref/TD 2 SLAM Ex2.dll

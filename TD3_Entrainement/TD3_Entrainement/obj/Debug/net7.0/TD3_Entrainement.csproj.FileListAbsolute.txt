@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/bin/Debug/net7.0/TD3_Entrainement
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/bin/Debug/net7.0/TD3_Entrainement.deps.json
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/bin/Debug/net7.0/TD3_Entrainement.runtimeconfig.json
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/bin/Debug/net7.0/TD3_Entrainement.dll
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/bin/Debug/net7.0/TD3_Entrainement.pdb
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/obj/Debug/net7.0/TD3_Entrainement.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/obj/Debug/net7.0/TD3_Entrainement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/obj/Debug/net7.0/TD3_Entrainement.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/obj/Debug/net7.0/TD3_Entrainement.AssemblyInfo.cs
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/obj/Debug/net7.0/TD3_Entrainement.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/obj/Debug/net7.0/TD3_Entrainement.dll
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/obj/Debug/net7.0/refint/TD3_Entrainement.dll
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/obj/Debug/net7.0/TD3_Entrainement.pdb
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/obj/Debug/net7.0/TD3_Entrainement.genruntimeconfig.cache
+/Users/celinkocturk/Projects/TD3_Entrainement/TD3_Entrainement/obj/Debug/net7.0/ref/TD3_Entrainement.dll

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CB9A5844-059C-42DB-BA17-53F4E8C1E156}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Nguyen_220DST PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nguyen DST/Program.cs">
+    <Files>
+      <File FileName="Nguyen DST/Program.cs" Line="24" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Nguyen DST" expanded="True">
+            <Node name="Nguyen DST" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

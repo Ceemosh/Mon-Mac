@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/obj/Debug/net6.0/TDNguyen.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/obj/Debug/net6.0/TDNguyen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/obj/Debug/net6.0/TDNguyen.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/obj/Debug/net6.0/TDNguyen.AssemblyInfo.cs
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/obj/Debug/net6.0/TDNguyen.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/bin/Debug/net6.0/TDNguyen
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/bin/Debug/net6.0/TDNguyen.deps.json
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/bin/Debug/net6.0/TDNguyen.runtimeconfig.json
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/bin/Debug/net6.0/TDNguyen.dll
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/bin/Debug/net6.0/TDNguyen.pdb
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/obj/Debug/net6.0/TDNguyen.dll
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/obj/Debug/net6.0/refint/TDNguyen.dll
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/obj/Debug/net6.0/TDNguyen.pdb
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/obj/Debug/net6.0/TDNguyen.genruntimeconfig.cache
+/Users/celinkocturk/Projects/TDNguyen/TDNguyen/obj/Debug/net6.0/ref/TDNguyen.dll

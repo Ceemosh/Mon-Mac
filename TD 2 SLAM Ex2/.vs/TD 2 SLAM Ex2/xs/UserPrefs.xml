@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CA84642D-8683-41D1-83D9-E2DE35F38868}|Default">
+  <MonoDevelop.Ide.ItemProperties.TD_2202_220SLAM_220Ex2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TD 2 SLAM Ex2/Program.cs">
+    <Files>
+      <File FileName="TD 2 SLAM Ex2/Program.cs" Line="11" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TD 2 SLAM Ex2" expanded="True">
+            <Node name="TD 2 SLAM Ex2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

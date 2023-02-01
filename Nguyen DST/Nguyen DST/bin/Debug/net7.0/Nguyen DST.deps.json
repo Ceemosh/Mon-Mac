@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Nguyen DST/1.0.0": {
+        "runtime": {
+          "Nguyen DST.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nguyen DST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

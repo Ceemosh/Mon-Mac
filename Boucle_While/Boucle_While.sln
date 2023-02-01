@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boucle_While", "Boucle_While\Boucle_While.csproj", "{62E3DAF4-AB4E-44C7-A181-CB8ED82DC0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E3DAF4-AB4E-44C7-A181-CB8ED82DC0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E3DAF4-AB4E-44C7-A181-CB8ED82DC0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E3DAF4-AB4E-44C7-A181-CB8ED82DC0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E3DAF4-AB4E-44C7-A181-CB8ED82DC0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0414DD8C-8DDE-4297-AA6D-0F5B5141CDF7}
+	EndGlobalSection
+EndGlobal

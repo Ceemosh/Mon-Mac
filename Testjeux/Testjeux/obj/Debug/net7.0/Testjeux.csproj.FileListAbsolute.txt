@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/Testjeux/Testjeux/obj/Debug/net7.0/Testjeux.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/Testjeux/Testjeux/obj/Debug/net7.0/Testjeux.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/Testjeux/Testjeux/obj/Debug/net7.0/Testjeux.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/Testjeux/Testjeux/obj/Debug/net7.0/Testjeux.AssemblyInfo.cs
+/Users/celinkocturk/Projects/Testjeux/Testjeux/obj/Debug/net7.0/Testjeux.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/Testjeux/Testjeux/bin/Debug/net7.0/Testjeux
+/Users/celinkocturk/Projects/Testjeux/Testjeux/bin/Debug/net7.0/Testjeux.deps.json
+/Users/celinkocturk/Projects/Testjeux/Testjeux/bin/Debug/net7.0/Testjeux.runtimeconfig.json
+/Users/celinkocturk/Projects/Testjeux/Testjeux/bin/Debug/net7.0/Testjeux.dll
+/Users/celinkocturk/Projects/Testjeux/Testjeux/bin/Debug/net7.0/Testjeux.pdb
+/Users/celinkocturk/Projects/Testjeux/Testjeux/obj/Debug/net7.0/Testjeux.dll
+/Users/celinkocturk/Projects/Testjeux/Testjeux/obj/Debug/net7.0/refint/Testjeux.dll
+/Users/celinkocturk/Projects/Testjeux/Testjeux/obj/Debug/net7.0/Testjeux.pdb
+/Users/celinkocturk/Projects/Testjeux/Testjeux/obj/Debug/net7.0/Testjeux.genruntimeconfig.cache
+/Users/celinkocturk/Projects/Testjeux/Testjeux/obj/Debug/net7.0/ref/Testjeux.dll

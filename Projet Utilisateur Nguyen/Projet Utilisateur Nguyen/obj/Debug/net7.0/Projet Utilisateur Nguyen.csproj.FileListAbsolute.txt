@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/obj/Debug/net7.0/Projet Utilisateur Nguyen.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/obj/Debug/net7.0/Projet Utilisateur Nguyen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/obj/Debug/net7.0/Projet Utilisateur Nguyen.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/obj/Debug/net7.0/Projet Utilisateur Nguyen.AssemblyInfo.cs
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/obj/Debug/net7.0/Projet Utilisateur Nguyen.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/bin/Debug/net7.0/Projet Utilisateur Nguyen
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/bin/Debug/net7.0/Projet Utilisateur Nguyen.deps.json
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/bin/Debug/net7.0/Projet Utilisateur Nguyen.runtimeconfig.json
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/bin/Debug/net7.0/Projet Utilisateur Nguyen.dll
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/bin/Debug/net7.0/Projet Utilisateur Nguyen.pdb
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/obj/Debug/net7.0/Projet Utilisateur Nguyen.dll
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/obj/Debug/net7.0/refint/Projet Utilisateur Nguyen.dll
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/obj/Debug/net7.0/Projet Utilisateur Nguyen.pdb
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/obj/Debug/net7.0/Projet Utilisateur Nguyen.genruntimeconfig.cache
+/Users/celinkocturk/Projects/Projet Utilisateur Nguyen/Projet Utilisateur Nguyen/obj/Debug/net7.0/ref/Projet Utilisateur Nguyen.dll

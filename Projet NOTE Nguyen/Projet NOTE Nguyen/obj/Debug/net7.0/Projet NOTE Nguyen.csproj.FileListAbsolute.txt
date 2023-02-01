@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/bin/Debug/net7.0/Projet NOTE Nguyen
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/bin/Debug/net7.0/Projet NOTE Nguyen.deps.json
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/bin/Debug/net7.0/Projet NOTE Nguyen.runtimeconfig.json
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/bin/Debug/net7.0/Projet NOTE Nguyen.dll
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/bin/Debug/net7.0/Projet NOTE Nguyen.pdb
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/obj/Debug/net7.0/Projet NOTE Nguyen.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/obj/Debug/net7.0/Projet NOTE Nguyen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/obj/Debug/net7.0/Projet NOTE Nguyen.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/obj/Debug/net7.0/Projet NOTE Nguyen.AssemblyInfo.cs
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/obj/Debug/net7.0/Projet NOTE Nguyen.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/obj/Debug/net7.0/Projet NOTE Nguyen.dll
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/obj/Debug/net7.0/refint/Projet NOTE Nguyen.dll
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/obj/Debug/net7.0/Projet NOTE Nguyen.pdb
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/obj/Debug/net7.0/Projet NOTE Nguyen.genruntimeconfig.cache
+/Users/celinkocturk/Projects/Projet NOTE Nguyen/Projet NOTE Nguyen/obj/Debug/net7.0/ref/Projet NOTE Nguyen.dll

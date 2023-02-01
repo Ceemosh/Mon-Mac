@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/obj/Debug/net7.0/TD 4 Ex13.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/obj/Debug/net7.0/TD 4 Ex13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/obj/Debug/net7.0/TD 4 Ex13.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/obj/Debug/net7.0/TD 4 Ex13.AssemblyInfo.cs
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/obj/Debug/net7.0/TD 4 Ex13.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/bin/Debug/net7.0/TD 4 Ex13
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/bin/Debug/net7.0/TD 4 Ex13.deps.json
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/bin/Debug/net7.0/TD 4 Ex13.runtimeconfig.json
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/bin/Debug/net7.0/TD 4 Ex13.dll
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/bin/Debug/net7.0/TD 4 Ex13.pdb
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/obj/Debug/net7.0/TD 4 Ex13.dll
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/obj/Debug/net7.0/refint/TD 4 Ex13.dll
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/obj/Debug/net7.0/TD 4 Ex13.pdb
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/obj/Debug/net7.0/TD 4 Ex13.genruntimeconfig.cache
+/Users/celinkocturk/Projects/TD 4 Ex13/TD 4 Ex13/obj/Debug/net7.0/ref/TD 4 Ex13.dll

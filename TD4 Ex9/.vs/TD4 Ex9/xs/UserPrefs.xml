@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{AA2F063B-BDEA-4575-BAC4-D9A94276BC61}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TD4_220Ex9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TD4 Ex9/Program.cs">
+    <Files>
+      <File FileName="TD4 Ex9/Program.cs" Line="4" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TD4 Ex9" expanded="True">
+            <Node name="TD4 Ex9" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

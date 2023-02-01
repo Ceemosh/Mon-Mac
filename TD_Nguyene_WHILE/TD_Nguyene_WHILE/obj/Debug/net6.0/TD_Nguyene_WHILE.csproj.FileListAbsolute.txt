@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/bin/Debug/net6.0/TD_Nguyene_WHILE
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/bin/Debug/net6.0/TD_Nguyene_WHILE.deps.json
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/bin/Debug/net6.0/TD_Nguyene_WHILE.runtimeconfig.json
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/bin/Debug/net6.0/TD_Nguyene_WHILE.dll
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/bin/Debug/net6.0/TD_Nguyene_WHILE.pdb
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/obj/Debug/net6.0/TD_Nguyene_WHILE.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/obj/Debug/net6.0/TD_Nguyene_WHILE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/obj/Debug/net6.0/TD_Nguyene_WHILE.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/obj/Debug/net6.0/TD_Nguyene_WHILE.AssemblyInfo.cs
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/obj/Debug/net6.0/TD_Nguyene_WHILE.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/obj/Debug/net6.0/TD_Nguyene_WHILE.dll
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/obj/Debug/net6.0/refint/TD_Nguyene_WHILE.dll
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/obj/Debug/net6.0/TD_Nguyene_WHILE.pdb
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/obj/Debug/net6.0/TD_Nguyene_WHILE.genruntimeconfig.cache
+/Users/celinkocturk/Projects/TD_Nguyene_WHILE/TD_Nguyene_WHILE/obj/Debug/net6.0/ref/TD_Nguyene_WHILE.dll

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{90D45BFE-43D7-4FBB-A46C-5FF3B7B19FF3}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TD SLAM Ex Jeudi 26 janv/Program.cs">
+    <Files>
+      <File FileName="TD SLAM Ex Jeudi 26 janv/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TD SLAM Ex Jeudi 26 janv" expanded="True">
+            <Node name="TD SLAM Ex Jeudi 26 janv" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TD_220SLAM_220Ex_220Jeudi_22026_220janv PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

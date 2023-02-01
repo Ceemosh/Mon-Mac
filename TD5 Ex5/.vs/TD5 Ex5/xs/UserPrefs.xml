@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{3A11E3D5-7B8D-4A19-8B6D-0939DBEF1826}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TD5_220Ex5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TD5 Ex5" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

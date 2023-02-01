@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{77099F85-934B-4C05-A25C-9941EA1C1AD8}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Projet_220NOTE_220Nguyen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Projet NOTE Nguyen/Program.cs">
+    <Files>
+      <File FileName="Projet NOTE Nguyen/Program.cs" Line="98" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Projet NOTE Nguyen" expanded="True">
+            <Node name="Projet NOTE Nguyen" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

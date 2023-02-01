@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{5D2A634B-54A5-433E-8EAE-2849D1A7547A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TD5_220Ex3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TD5 Ex3/Program.cs">
+    <Files>
+      <File FileName="TD5 Ex3/Program.cs" Line="18" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TD5 Ex3" expanded="True">
+            <Node name="TD5 Ex3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

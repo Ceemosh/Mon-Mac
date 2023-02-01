@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8CE7F20A-1A0F-4420-9E39-ACB21FECCE48}|Default">
+  <MonoDevelop.Ide.ItemProperties.TD_2205_220Ex10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TD 5 Ex10/Program.cs">
+    <Files>
+      <File FileName="TD 5 Ex10/Program.cs" Line="34" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TD 5 Ex10" expanded="True">
+            <Node name="TD 5 Ex10" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/TD/TD/obj/Debug/net6.0/TD.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/TD/TD/obj/Debug/net6.0/TD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/TD/TD/obj/Debug/net6.0/TD.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/TD/TD/obj/Debug/net6.0/TD.AssemblyInfo.cs
+/Users/celinkocturk/Projects/TD/TD/obj/Debug/net6.0/TD.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/TD/TD/bin/Debug/net6.0/TD
+/Users/celinkocturk/Projects/TD/TD/bin/Debug/net6.0/TD.deps.json
+/Users/celinkocturk/Projects/TD/TD/bin/Debug/net6.0/TD.runtimeconfig.json
+/Users/celinkocturk/Projects/TD/TD/bin/Debug/net6.0/TD.dll
+/Users/celinkocturk/Projects/TD/TD/bin/Debug/net6.0/TD.pdb
+/Users/celinkocturk/Projects/TD/TD/obj/Debug/net6.0/TD.dll
+/Users/celinkocturk/Projects/TD/TD/obj/Debug/net6.0/refint/TD.dll
+/Users/celinkocturk/Projects/TD/TD/obj/Debug/net6.0/TD.pdb
+/Users/celinkocturk/Projects/TD/TD/obj/Debug/net6.0/TD.genruntimeconfig.cache
+/Users/celinkocturk/Projects/TD/TD/obj/Debug/net6.0/ref/TD.dll

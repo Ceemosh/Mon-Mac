@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/obj/Debug/net7.0/azdazdazdzad.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/obj/Debug/net7.0/azdazdazdzad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/obj/Debug/net7.0/azdazdazdzad.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/obj/Debug/net7.0/azdazdazdzad.AssemblyInfo.cs
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/obj/Debug/net7.0/azdazdazdzad.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/bin/Debug/net7.0/azdazdazdzad
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/bin/Debug/net7.0/azdazdazdzad.deps.json
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/bin/Debug/net7.0/azdazdazdzad.runtimeconfig.json
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/bin/Debug/net7.0/azdazdazdzad.dll
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/bin/Debug/net7.0/azdazdazdzad.pdb
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/obj/Debug/net7.0/azdazdazdzad.dll
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/obj/Debug/net7.0/refint/azdazdazdzad.dll
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/obj/Debug/net7.0/azdazdazdzad.pdb
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/obj/Debug/net7.0/azdazdazdzad.genruntimeconfig.cache
+/Users/celinkocturk/Projects/azdazdazdzad/azdazdazdzad/obj/Debug/net7.0/ref/azdazdazdzad.dll

@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/bin/Debug/net7.0/TP_IMC
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/bin/Debug/net7.0/TP_IMC.deps.json
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/bin/Debug/net7.0/TP_IMC.runtimeconfig.json
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/bin/Debug/net7.0/TP_IMC.dll
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/bin/Debug/net7.0/TP_IMC.pdb
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/obj/Debug/net7.0/TP_IMC.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/obj/Debug/net7.0/TP_IMC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/obj/Debug/net7.0/TP_IMC.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/obj/Debug/net7.0/TP_IMC.AssemblyInfo.cs
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/obj/Debug/net7.0/TP_IMC.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/obj/Debug/net7.0/TP_IMC.dll
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/obj/Debug/net7.0/refint/TP_IMC.dll
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/obj/Debug/net7.0/TP_IMC.pdb
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/obj/Debug/net7.0/TP_IMC.genruntimeconfig.cache
+/Users/celinkocturk/Projects/TP_IMC/TP_IMC/obj/Debug/net7.0/ref/TP_IMC.dll

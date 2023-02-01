@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{41DFBBFE-394A-4DF2-8B7F-483256C0E319}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TD_Nguyene_WHILE/Program.cs">
+    <Files>
+      <File FileName="TD_Nguyene_WHILE/Program.cs" Line="5" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TD_Nguyene_WHILE" expanded="True">
+            <Node name="TD_Nguyene_WHILE" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TD__Nguyene__WHILE PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/bin/Debug/net6.0/Boucle_While
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/bin/Debug/net6.0/Boucle_While.deps.json
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/bin/Debug/net6.0/Boucle_While.runtimeconfig.json
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/bin/Debug/net6.0/Boucle_While.dll
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/bin/Debug/net6.0/Boucle_While.pdb
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/obj/Debug/net6.0/Boucle_While.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/obj/Debug/net6.0/Boucle_While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/obj/Debug/net6.0/Boucle_While.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/obj/Debug/net6.0/Boucle_While.AssemblyInfo.cs
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/obj/Debug/net6.0/Boucle_While.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/obj/Debug/net6.0/Boucle_While.dll
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/obj/Debug/net6.0/refint/Boucle_While.dll
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/obj/Debug/net6.0/Boucle_While.pdb
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/obj/Debug/net6.0/Boucle_While.genruntimeconfig.cache
+/Users/celinkocturk/Projects/Boucle_While/Boucle_While/obj/Debug/net6.0/ref/Boucle_While.dll

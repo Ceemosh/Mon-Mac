@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/obj/Debug/net6.0/TD4_EX1.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/obj/Debug/net6.0/TD4_EX1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/obj/Debug/net6.0/TD4_EX1.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/obj/Debug/net6.0/TD4_EX1.AssemblyInfo.cs
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/obj/Debug/net6.0/TD4_EX1.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/bin/Debug/net6.0/TD4_EX1
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/bin/Debug/net6.0/TD4_EX1.deps.json
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/bin/Debug/net6.0/TD4_EX1.runtimeconfig.json
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/bin/Debug/net6.0/TD4_EX1.dll
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/bin/Debug/net6.0/TD4_EX1.pdb
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/obj/Debug/net6.0/TD4_EX1.dll
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/obj/Debug/net6.0/refint/TD4_EX1.dll
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/obj/Debug/net6.0/TD4_EX1.pdb
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/obj/Debug/net6.0/TD4_EX1.genruntimeconfig.cache
+/Users/celinkocturk/Projects/TD4_EX1/TD4_EX1/obj/Debug/net6.0/ref/TD4_EX1.dll

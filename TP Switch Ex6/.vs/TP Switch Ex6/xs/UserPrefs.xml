@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A7001014-9D60-4EC2-87B6-35D2414D3854}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TP_220Switch_220Ex6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP Switch Ex6/Program.cs">
+    <Files>
+      <File FileName="TP Switch Ex6/Program.cs" Line="19" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP Switch Ex6" expanded="True">
+            <Node name="TP Switch Ex6" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

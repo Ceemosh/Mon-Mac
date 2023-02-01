@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6DC6D338-A448-432B-8E53-66884056112F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="boucle_imbriquees 2/Program.cs">
+    <Files>
+      <File FileName="boucle_imbriquees 2/Program.cs" Line="21" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="boucle_imbriquees 2" expanded="True">
+            <Node name="boucle_imbriquees 2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.boucle__imbriquees_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

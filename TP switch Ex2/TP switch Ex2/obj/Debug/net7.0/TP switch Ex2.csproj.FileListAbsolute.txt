@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/bin/Debug/net7.0/TP switch Ex2
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/bin/Debug/net7.0/TP switch Ex2.deps.json
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/bin/Debug/net7.0/TP switch Ex2.runtimeconfig.json
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/bin/Debug/net7.0/TP switch Ex2.dll
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/bin/Debug/net7.0/TP switch Ex2.pdb
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/obj/Debug/net7.0/TP switch Ex2.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/obj/Debug/net7.0/TP switch Ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/obj/Debug/net7.0/TP switch Ex2.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/obj/Debug/net7.0/TP switch Ex2.AssemblyInfo.cs
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/obj/Debug/net7.0/TP switch Ex2.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/obj/Debug/net7.0/TP switch Ex2.dll
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/obj/Debug/net7.0/refint/TP switch Ex2.dll
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/obj/Debug/net7.0/TP switch Ex2.pdb
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/obj/Debug/net7.0/TP switch Ex2.genruntimeconfig.cache
+/Users/celinkocturk/Projects/TP switch Ex2/TP switch Ex2/obj/Debug/net7.0/ref/TP switch Ex2.dll

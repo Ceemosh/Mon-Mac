@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{712A01B5-670E-4735-A06F-7A5C1CC039B2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TD4_Ex5/Program.cs">
+    <Files>
+      <File FileName="TD4_Ex5/Program.cs" Line="9" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TD4_Ex5" expanded="True">
+            <Node name="TD4_Ex5" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TD4__Ex5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

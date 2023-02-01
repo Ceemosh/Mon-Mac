@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/obj/Debug/net6.0/TD_Nguyene_while2.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/obj/Debug/net6.0/TD_Nguyene_while2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/obj/Debug/net6.0/TD_Nguyene_while2.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/obj/Debug/net6.0/TD_Nguyene_while2.AssemblyInfo.cs
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/obj/Debug/net6.0/TD_Nguyene_while2.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/bin/Debug/net6.0/TD_Nguyene_while2
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/bin/Debug/net6.0/TD_Nguyene_while2.deps.json
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/bin/Debug/net6.0/TD_Nguyene_while2.runtimeconfig.json
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/bin/Debug/net6.0/TD_Nguyene_while2.dll
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/bin/Debug/net6.0/TD_Nguyene_while2.pdb
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/obj/Debug/net6.0/TD_Nguyene_while2.dll
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/obj/Debug/net6.0/refint/TD_Nguyene_while2.dll
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/obj/Debug/net6.0/TD_Nguyene_while2.pdb
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/obj/Debug/net6.0/TD_Nguyene_while2.genruntimeconfig.cache
+/Users/celinkocturk/Projects/TD_Nguyene_while2/TD_Nguyene_while2/obj/Debug/net6.0/ref/TD_Nguyene_while2.dll
