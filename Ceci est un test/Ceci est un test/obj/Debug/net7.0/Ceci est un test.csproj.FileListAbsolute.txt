@@ -1,0 +1,15 @@
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/obj/Debug/net7.0/Ceci est un test.csproj.AssemblyReference.cache
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/obj/Debug/net7.0/Ceci est un test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/obj/Debug/net7.0/Ceci est un test.AssemblyInfoInputs.cache
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/obj/Debug/net7.0/Ceci est un test.AssemblyInfo.cs
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/obj/Debug/net7.0/Ceci est un test.csproj.CoreCompileInputs.cache
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/bin/Debug/net7.0/Ceci est un test
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/bin/Debug/net7.0/Ceci est un test.deps.json
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/bin/Debug/net7.0/Ceci est un test.runtimeconfig.json
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/bin/Debug/net7.0/Ceci est un test.dll
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/bin/Debug/net7.0/Ceci est un test.pdb
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/obj/Debug/net7.0/Ceci est un test.dll
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/obj/Debug/net7.0/refint/Ceci est un test.dll
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/obj/Debug/net7.0/Ceci est un test.pdb
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/obj/Debug/net7.0/Ceci est un test.genruntimeconfig.cache
+/Users/celinkocturk/Projects/Mon-Mac/Ceci est un test/Ceci est un test/obj/Debug/net7.0/ref/Ceci est un test.dll
